@@ -22,6 +22,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
     }
     
+    func isMiniPlayerShown()-> Bool {
+        return myWind.isMiniPlayerShown()
+    }
+    
     func showOrHidePopupWindow() {
         myWind.showOrHidePopupWindow()
     }

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87A1486E-D179-452C-91A9-F4DF6604D7B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestWindow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4D66FE15390CB3F29494B915B7CBE12018954FB8</key>
+		<string>https://github.com/sahara108/TestCustomWindow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestWindow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4D66FE15390CB3F29494B915B7CBE12018954FB8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sahara108/TestCustomWindow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4D66FE15390CB3F29494B915B7CBE12018954FB8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4D66FE15390CB3F29494B915B7CBE12018954FB8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestWindow</string>
+		</dict>
+	</array>
+</dict>
+</plist>

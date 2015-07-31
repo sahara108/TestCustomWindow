@@ -47,4 +47,12 @@ class CustomWindow: UIWindow {
             miniPlayer.hidden = !miniPlayer.hidden
         }
     }
+    
+    func isMiniPlayerShown() -> Bool {
+        if miniPlayer != nil {
+            return !miniPlayer!.hidden
+        }
+        
+        return false
+    }
 }
